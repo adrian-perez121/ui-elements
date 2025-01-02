@@ -1,1 +1,1 @@
-console.log("set up complete")
+import "./main.css";
