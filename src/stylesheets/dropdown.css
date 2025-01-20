@@ -1,0 +1,20 @@
+.dropdown-btn {
+  height: 80px;
+  width: 80px;
+  background-color: antiquewhite;
+  position: relative;
+}
+
+.hide {
+  display: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-items {
+  list-style: none;
+  position: absolute;
+}
